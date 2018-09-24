@@ -1,6 +1,6 @@
 package Assign1_InleidingJava2018.H02;
 
-import java.applet.Applet;
+import java.applet.*;
 import java.awt.*;
 
 //een klasse met de naam Show van het type Applet

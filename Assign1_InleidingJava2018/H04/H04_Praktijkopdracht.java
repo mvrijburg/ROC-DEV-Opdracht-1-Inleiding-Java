@@ -1,6 +1,6 @@
 package Assign1_InleidingJava2018.H04;
 
-import java.applet.Applet;
+import java.applet.*;
 import java.awt.*;
 
 public class H04_Praktijkopdracht extends Applet {
