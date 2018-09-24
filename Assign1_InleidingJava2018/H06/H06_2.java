@@ -2,21 +2,11 @@ package H06;
 
 import java.applet.*;
 import java.awt.*;
-import java.text.DecimalFormat;
 
 public class H06_2 extends Applet {
-    int year;
-    int day;
-    int hour;
-    int minute;
-    int second;
-
-    int center;
-    int left;
-    int right;
-
-    int row_1;
-    int row_2;
+    int year, day, hour, minute, second;
+    int center, left, right;
+    int row_1, row_2;
 
     public void init() {
     setSize(856, 480);

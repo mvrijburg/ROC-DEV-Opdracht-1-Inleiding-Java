@@ -4,13 +4,8 @@ import java.applet.*;
 import java.awt.*;
 
 public class H06_1 extends Applet {
-
-    int center;
-    int left;
-    int right;
-
-    int row_1;
-    int row_2;
+    int center, left, right;
+    int row_1, row_2;
 
     public void init() {
         setSize(856, 480);
