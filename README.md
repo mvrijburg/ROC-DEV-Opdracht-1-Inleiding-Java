@@ -1,2 +1,3 @@
-# ROC-DEV-H01-H04
-Opdrachten H01-H04
+#ROC-DEV Assignments
+
+Java assignments for ROC-DEV.
